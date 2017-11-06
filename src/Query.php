@@ -1,6 +1,6 @@
 <?php
 
-namespace Dasalfred;
+namespace Designandsuch\Dasalfred;
 
 class Query
 {
