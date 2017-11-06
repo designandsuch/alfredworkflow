@@ -1,27 +1,7 @@
 {
     "name": "designandsuch/php-alfredworkflow",
     "description": "Alfred Workflow Helpers for PHP",
-    "version": "1.0.0",
-    "keywords": [
-      "alfred",
-      "workflow",
-      "php",
-      "designandsuch",
-    ],
-    "homepage": "https://github.com/designandsuch/php-alfredworkflow/",
-    "license": "GPL-3.0+",
-    "authors": [
-      {
-       "name":"Thijs de Jong",
-        "email": "thijsdjong@gmail.com",
-        "homepage": "https://designandsuch.com",
-        "role": "Developer"
-      }
-    ],
     "require": {
         "php": ">=5.4"
     },
-    "require-dev": {},
-    "autoload": {},
-    "scripts": { }
 }
