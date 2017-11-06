@@ -1,6 +1,7 @@
 {
     "name": "designandsuch/php-alfredworkflow",
     "description": "Alfred Workflow Helpers for PHP",
+    "version" : "0.0.1"
     "require": {
         "php": ">=5.4"
     }
