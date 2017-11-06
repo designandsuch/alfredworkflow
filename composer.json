@@ -4,7 +4,7 @@
     "version" : "0.0.1",
     "require": {
         "php": ">=5.4"
-    },
+    }, 
     "psr-4": { "Designandsuch\\Dasalfred\\": "src/" },
     "type":"library"
 }
