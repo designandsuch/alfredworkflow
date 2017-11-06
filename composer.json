@@ -3,5 +3,5 @@
     "description": "Alfred Workflow Helpers for PHP",
     "require": {
         "php": ">=5.4"
-    },
+    }
 }
